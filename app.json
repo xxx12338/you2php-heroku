@@ -1,8 +1,8 @@
 {
   "name": "Video",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
-  "website": "https://vidoe.i-lolita.ml/",
-  "repository": "https://github.com/xxx12138/you2php-heroku",
+  "website": "https://Video.i-lolita.ml/",
+  "repository": "https://github.com/xxx12338/you2php-heroku",
   "success_url": "/install.php",
   "env":{
     "APIKEY":{
